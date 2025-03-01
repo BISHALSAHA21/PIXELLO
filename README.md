@@ -57,7 +57,7 @@ python main.py
 #### **Detected Face:**
 📌 *System detects faces and marks them with bounding boxes.*  
 ![image](https://github.com/user-attachments/assets/ed64f158-c73b-488f-8c25-34aeff846b5b)
-![image](https://github.com/user-attachments/assets/c5e7c368-000e-404a-b9c2-7a5be51b6148)
+
 
 
 #### **Generated Facial Image:**
