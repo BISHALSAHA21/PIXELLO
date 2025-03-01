@@ -47,7 +47,8 @@ python main.py
 ### **🎨 Example Output**
 #### **Input Image & Name:**
 🖼️ *User uploads an image and provides a name.*  
-![image](https://github.com/user-attachments/assets/2ad55f3d-c277-4856-9882-38ede3f82469)
+![Amitabh Bachchan](https://github.com/user-attachments/assets/d7915e60-da39-4456-be9f-0b83f313d61e)
+
 ![image](https://github.com/user-attachments/assets/2c784ec1-148e-40f5-93ef-55a67eca032d)
 
 
